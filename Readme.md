@@ -4,8 +4,8 @@ This is a simple networking application where a client requests the contents of 
 
 ## Features
 
-- **Server**: Handles multiple client connections using threading.
-- **Client**: Allows continuous file requests in a single session.
+- **File Server**: Handles multiple client connections using threading.
+- **File Client**: Allows continuous file requests in a single session.
 - **Semaphore**: Ensures only one thread can access the file at a time, preventing race conditions and ensuring data consistency.
 
 ## Prerequisites
