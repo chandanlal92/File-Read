@@ -22,11 +22,11 @@ This is a simple networking application where a client requests the contents of 
 
 # Run the client:
 
-    ```bash
+```bash
     python client.py
-    ```
+```
 # Example Server
-  ```bash
+```bash
     [*] Listening on 0.0.0.0:9999
     [*] Accepted connection from ('127.0.0.1', 63415)   
 ```
