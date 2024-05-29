@@ -29,20 +29,17 @@ This is a simple networking application where a client requests the contents of 
   ```bash
     [*] Listening on 0.0.0.0:9999
     [*] Accepted connection from ('127.0.0.1', 63415)   
-    ```
+```
 # Example Client
-  ```bash
+```bash
     Enter the filename to request (or 'exit' to quit): test.txt
     Received file contents:
     Hello
     Testing file read
 
     Enter the filename to request (or 'exit' to quit):
-    ```
-## License
+```
 
-This project is licensed under the MIT License.
-
-## Author
+# Author
 
 Chandanlal
